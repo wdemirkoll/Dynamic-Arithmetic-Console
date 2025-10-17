@@ -6,7 +6,7 @@ int main() {
        double number[9];
 
      while (true) { // Main Menu
-        std::cout << "[1] Process with 2\n"; // 2 2 2
+        std::cout << "[1] Process with 2\n"; // 2 2 
         std::cout << "[2] Process with 3\n"; // 3 3 3
         std::cout << "[3] Process with 4\n"; // 4 4 4 4
         std::cout << "[4] Process with 5\n"; // 5 5 5 5 5
